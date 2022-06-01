@@ -8,3 +8,4 @@
 <p>Luego de la instalación, escriba en su terminal npm start y vera que se abrirá una pestaña en su navegador con la solución</p>
 
 <p>Escriba la contraseña que desee, un ejemplo sería: MateoDominguez@1234-</p>
+<img src="problema5.png" alt="ejemplo"/>
